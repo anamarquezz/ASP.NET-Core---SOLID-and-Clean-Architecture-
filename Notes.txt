@@ -1,0 +1,84 @@
+---------------------------------------
+Clean Architecture
+----------------------------------------
+
+
+-----------------------
+ALL-IN-ONE Architecture
+
+Pros:
+   Easier to deliver
+   Can be stable and a long term solution
+
+Cons:
+   Hard to Enforce SOLIC principles
+   Harder to maintain as project grows
+   Harder to Test
+
+-----------------------------------
+Layered Architecture:
+Pros:
+   Better enforcing ad SOLID principles.
+   Easier to maintain larger code base
+
+Cons:
+   Layers are dependent
+   Still acts as one application
+   Logic's sometimes scattered across layers.
+
+  |-------------------------------------------------------------------|
+  |							 WEB LAYER			                      |
+  |-------------------------------------------------------------------|
+  |	                                                                  |
+  |  Controls, exception handlers, filter, view templates, and so on  |
+  |                                                                   |
+  |-------------------------------------------------------------------|
+  
+
+  |-------------------------------------------------------------------|
+  |							SERVICE LAYER               	          |
+  |-------------------------------------------------------------------|
+  |	                                                                  |
+  |        Application services and infrastructure services           |
+  |                                                                   |
+  | ------------------------------------------------------------------|
+
+
+
+  |-------------------------------------------------------------------|
+  |				REPOSITORY LAYER      		      |
+  |-------------------------------------------------------------------|
+  |	                                                                  |
+  |        Repository Interfces and thei implementations              |
+  |                                                                   |
+  | ------------------------------------------------------------------|
+
+
+
+-----------------------------------
+Onion Architecture
+
+
+Pros:
+   It provides bettger testability as unit test can be created for separate layers
+   Easier to make changes in code base without directly affecting other modules
+   Promotes loose coupling
+Cons:
+   Learning Curve
+   Time consuming
+
+---------------------
+Application to build:
+Leave Management System With ASP.NET Core 3.1
+
+Learn about:
+
+.NET Core 3.1
+ViewModels and AutoMapper
+Entity Framewor, Code First
+Dependency Injection
+Repository Pattern
+Identity and Authentication
+Boostrap 4 and AdminLTE
+Client and Server Side Validation
+Linq Queries and Lambda Expressions.
