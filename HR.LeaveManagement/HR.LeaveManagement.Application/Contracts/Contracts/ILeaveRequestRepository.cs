@@ -5,7 +5,8 @@ using System.Text;
 
 namespace HR.LeaveManagement.Application.Contracts.Contracts
 {
-    public interface ILeaveRequestRepository :IGenericRepository<LeaveRequest>
-    {
+    public interface ILeaveRequestRepository : IGenericRepository<LeaveRequest>
+    { 
+
     }
 }

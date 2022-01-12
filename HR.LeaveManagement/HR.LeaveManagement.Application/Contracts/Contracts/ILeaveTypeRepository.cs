@@ -1,10 +1,11 @@
-﻿using System;
+﻿using HR.LeaveManagement.Domain;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace HR.LeaveManagement.Application.Contracts.Contracts
 {
-    class ILeaveTypeRepository
+    public interface ILeaveTypeRepository : IGenericRepository<LeaveType>
     {
     }
 }
