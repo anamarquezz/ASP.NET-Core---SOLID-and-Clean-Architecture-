@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "upeIafb9y45Mo6ATfX61fX70vxZCiivm/1bFll+kSwXTW5EcCEW/LXXrv7S1CiCoIbwc/HK/z0IWlBq/RQPYtQ==",
+  "dgSpecHash": "5YZqyEmlUYz4C9IQPFqWWMjjpIuEneedXEhwIfoCFHfFKFgSC8jE7Z4JapfgGMmep9SUpiVHdm+vru+wdY+x/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\anamarquez\\source\\Repass\\ASP.NET-Core---SOLID-and-Clean-Architecture-\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\anamarquez\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
