@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HR.LeaveManagement.Application.DTOs
+namespace HR.LeaveManagement.Application.DTOs.LeaveRequest
 {
     /*The porpuse of DTO, is to limit the number of fields so reduce 
      * over posting and or underposting or providing to much information to the user*/

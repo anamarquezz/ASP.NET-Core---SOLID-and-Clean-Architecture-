@@ -1,0 +1,13 @@
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.deps.json
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CopyComplete
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+C:\Users\anamarquez\source\Repass\ASP.NET-Core---SOLID-and-Clean-Architecture-\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
