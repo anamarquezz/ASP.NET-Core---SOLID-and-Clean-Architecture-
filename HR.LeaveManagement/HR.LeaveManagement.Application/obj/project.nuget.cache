@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5YZqyEmlUYz4C9IQPFqWWMjjpIuEneedXEhwIfoCFHfFKFgSC8jE7Z4JapfgGMmep9SUpiVHdm+vru+wdY+x/w==",
+  "dgSpecHash": "iTeWdkP6/E0getP4W5zyAOyOB8MDHctGWeEsjupRvDKZ27cDlhJ1Lf/GSMIr44jVvOFNwALqrEenOWtDHFGXHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\anamarquez\\source\\Repass\\ASP.NET-Core---SOLID-and-Clean-Architecture-\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anamarquez\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\anamarquez\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\anamarquez\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\anamarquez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\anamarquez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
     "C:\\Users\\anamarquez\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
