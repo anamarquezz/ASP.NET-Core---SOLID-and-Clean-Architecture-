@@ -1,4 +1,4 @@
-﻿using HR.LeaveManagement.Application.Profiles
+﻿using HR.LeaveManagement.Application.Profiles;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using System;
